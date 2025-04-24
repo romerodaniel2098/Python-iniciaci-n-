@@ -4,4 +4,7 @@
 #si se realiza una compra de 10 relojes se hara un descuento del 10%
 #si se realiza una compra de 20 relojes se hara un descuento del 20%
 
-print("")
+print("ingresa nombre")
+nombre=input()
+
+print("hola "+nombre+"")
